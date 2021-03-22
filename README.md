@@ -1,5 +1,9 @@
 # tensor-flow mintapéldák
 
+Feladat a projekt gyökerében lefuttatni az src/check_all.py scriptet. 
+Ez létrehoz egy versions.txt file-t az adott mappában.
+Ha ez a file megfelelő, akkor a github-on egy pipa jelenik meg a piros x helyett.
+
 ## beüzemelés, telepítés
 
 Utoljára tesztelve python 3.8.5 interpreterrel.
