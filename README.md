@@ -2,7 +2,10 @@
 
 Feladat a projekt gyökerében lefuttatni az src/check_all.py scriptet. 
 Ez létrehoz egy versions.txt file-t az adott mappában.
-Ha ez a file megfelelő, akkor a github-on egy pipa jelenik meg a piros x helyett.
+Ha ez a file megfelelő, akkor a github-on  az actions allatt az utolsó futás zöld.
+
+https://docs.github.com/en/education/manage-coursework-with-github-classroom/view-autograding-results
+https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-status-checks
 
 ## beüzemelés, telepítés
 
